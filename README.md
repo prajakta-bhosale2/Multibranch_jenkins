@@ -1,7 +1,6 @@
 New changes done by developer
 
-some more changes dondddddddeddd
-
+Updated file 2
 
 cccccc
 hhhhhhhh
